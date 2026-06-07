@@ -50,3 +50,18 @@ body {
 .order-btn {
     background: linear-gradient(135deg, #f59e0b, #d97706);
 }
+.h4 {
+    position: absolute;
+    top: 15px;
+    left: 30px;
+
+    margin: 0;
+
+    font-size: 34px;
+    font-weight: 900;
+    letter-spacing: 2px;
+
+    background: linear-gradient(90deg, #60a5fa, #a78bfa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
